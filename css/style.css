@@ -107,3 +107,15 @@ nav {
   display: flex;                   
   gap: 1.25rem;                  
 }
+
+/* ===== FLEXBOX LAYOUT FOR HERO ===== */
+#hero {
+  display: flex;
+  flex-direction: column;     
+  justify-content: center;    
+  align-items: center;        
+  text-align: center;         
+  gap: 1.5rem;                
+}
+
+
